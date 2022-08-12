@@ -1,6 +1,6 @@
 # PaperSimilairty
 ## Background
-TAIPEI (Taiwan News) — National Taiwan University on Tuesday (August 9) announced a decision to rescind a master's degree it gave to Lin Chih-chien (林智堅) in 2017, citing plagiarism after a meeting by the school's academic ethics committee.
+National Taiwan University on Tuesday (August 9) announced a decision to rescind a master's degree it gave to Lin Chih-chien (林智堅) in 2017, citing plagiarism after a meeting by the school's academic ethics committee.
 
 The review meeting was held in late July and committee members decided to conduct a probe into plagiarism allegations against Lin, Taoyuan candidate of the Democratic Progressive Party (DPP) for the local elections in November. The committee members advised that Lin should be stripped of his master's degree, a decision later approved by the school's Office of Academic Affairs, according to the statement.
 
