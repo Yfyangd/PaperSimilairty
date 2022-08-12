@@ -32,9 +32,8 @@ This code was tested with python 3.7
 ```Paper_Similarity.ipynb``` is the detailed program explanation, including data exporatlion, data preprocess, model.
 ```demo.py``` is the demo file of 3 type of similarity search. Please follow the below scrips. ```Lin.txt``` and ```Yu.txt``` can be replaced with the papers you want to review. But please follow the " Paper_Similarity.ipynb " first to convert the file type from pdf to txt.
 
+scrpip:
 ```
-scrpip
-
 sim = TextSimilarity('/Lin.txt','/Yu.txt')
 sim.JaccardSim(a.str_a,a.str_b)
 # Out[20]: 0.38188640627665016
