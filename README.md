@@ -14,7 +14,9 @@ News: https://news.pts.org.tw/article/594307
 
 ## Method
 ```Jaccard Similarity``` ref: https://medium.com/data-science-bootcamp/understand-jaccard-index-jaccard-similarity-in-minutes-25a703fbf9d7
+
 ```Cosine Similarity``` ref: https://medium.com/geekculture/cosine-similarity-and-cosine-distance-48eed889a5c4
+
 ```Persion Similarity``` ref: https://medium.com/@cavaldovinos/human-pose-estimation-pose-similarity-dc8bf9f78556
 
 ## Code
