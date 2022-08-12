@@ -19,15 +19,32 @@ News: https://news.pts.org.tw/article/594307
 
 ```Persion Similarity``` ref: https://medium.com/@cavaldovinos/human-pose-estimation-pose-similarity-dc8bf9f78556
 
-## Code
 
-### Install dependencies
+## Install dependencies
 
 ```
 python -m pip install -r requirements.txt
 ```
 
 This code was tested with python 3.7
+
+## Code
+```Paper_Similarity.ipynb``` is the detailed program explanation, including data exporatlion, data preprocess, model.
+```demo.py``` is the demo file of 3 type of similarity search. Please follow the below scrips. ```Lin.txt``` and ```Yu.txt``` can be replaced with the papers you want to review. But please follow the " Paper_Similarity.ipynb " first to convert the file type from pdf to txt.
+
+```
+scrpip
+
+sim = TextSimilarity('/Lin.txt','/Yu.txt')
+sim.JaccardSim(a.str_a,a.str_b)
+# Out[20]: 0.38188640627665016
+
+sim.splitWordSimlaryty(a.str_a,a.str_b,sim=a.cos_sim)
+# Out[21]: 0.9356422914890785
+
+sim.splitWordSimlaryty(a.str_a,a.str_b,sim=a.pers_sim)
+# Out[22]: 0.5226242123605999
+```
 
 ## Result
 | Methodology | 林志堅跟余正煌的論文相似度 |
