@@ -30,6 +30,7 @@ This code was tested with python 3.7
 
 ## Code
 ```Paper_Similarity.ipynb``` is the detailed program explanation, including data exporatlion, data preprocess, model.
+
 ```demo.py``` is the demo file of 3 type of similarity search. Please follow the below scrips. ```Lin.txt``` and ```Yu.txt``` can be replaced with the papers you want to review. But please follow the " Paper_Similarity.ipynb " first to convert the file type from pdf to txt.
 
 ```
